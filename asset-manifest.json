@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Admin-Dashboard/static/css/main.76e0147e.css",
+    "main.js": "/Admin-Dashboard/static/js/main.96ccc108.js",
+    "static/media/market.png": "/Admin-Dashboard/static/media/market.15d8e3c742f89d9dfb68.png",
+    "static/media/overview.png": "/Admin-Dashboard/static/media/overview.764b7f879bdde4c91495.png",
+    "index.html": "/Admin-Dashboard/index.html",
+    "main.76e0147e.css.map": "/Admin-Dashboard/static/css/main.76e0147e.css.map",
+    "main.96ccc108.js.map": "/Admin-Dashboard/static/js/main.96ccc108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76e0147e.css",
+    "static/js/main.96ccc108.js"
+  ]
+}
